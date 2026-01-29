@@ -8,10 +8,10 @@ A custom UI compilation built around **ElvUI** and **BenikUI**, designed to prov
 
 FafnyirUI requires the following addons to function properly:
 
-- **ElvUI**  
-- **ElvUI_BenikUI**  
-- **ElvUI_NutsAndBolts**  
-- **FafnyirMedia**
+- **ElvUI**  [Download](https://tukui.org/elvui)
+- **ElvUI_BenikUI**  [Download](https://www.curseforge.com/wow/addons/benikui)
+- **ElvUI_NutsAndBolts**  [Download](https://www.curseforge.com/wow/addons/elvui-nutsandbolts)
+- **FafnyirMedia**  [Download](https://github.com/Fafnyir/FafnyirMedia)
 
 Make sure all dependencies are installed and enabled before loading the UI profile.
 
