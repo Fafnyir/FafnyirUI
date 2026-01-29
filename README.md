@@ -1,6 +1,6 @@
 # **FafnyirUI**
 
-A custom UI compilation built around **ElvUI**, designed to provide a clean, immersive, and highly customized World of Warcraft interface.
+A custom UI compilation built around **ElvUI** and **BenikUI**, designed to provide a clean, immersive, and highly customized World of Warcraft interface.
 
 ---
 
