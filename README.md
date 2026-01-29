@@ -13,6 +13,10 @@ FafnyirUI requires the following addons to function properly:
 - **ElvUI_NutsAndBolts**  [Download](https://www.curseforge.com/wow/addons/elvui-nutsandbolts)
 - **FafnyirMedia**  [Download](https://github.com/Fafnyir/FafnyirMedia)
 
+## 📦 Recomended
+**Clean Icons - Mechagnome Edition**  [Download](https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition)
+
+
 Make sure all dependencies are installed and enabled before loading the UI profile.
 
 ---
