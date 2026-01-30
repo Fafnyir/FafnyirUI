@@ -2,7 +2,7 @@
 
 <img width="2560" height="1440" alt="FafnyirUI-v1 00" src="https://github.com/user-attachments/assets/1d9aec84-64e3-4797-8ca6-564c5cdcb409" />
 
-A custom UI compilation built around **ElvUI** and **BenikUI**, designed to provide a clean, immersive, and highly customized World of Warcraft interface.
+A UI compilation built around **ElvUI** and **BenikUI**, designed to provide a clean, immersive, and highly customized World of Warcraft interface.
 
 ---
 
