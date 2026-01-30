@@ -34,5 +34,5 @@ Make sure all dependencies are installed and enabled before loading the UI profi
 ## 🧩 Notes
 
 - This UI is built specifically for use with the ElvUI ecosystem.  
-- Missing dependencies may cause visual errors or missing elements.  
+- Missing dependencies will cause visual errors or missing elements.  
 - FafnyirMedia contains required textures, fonts, and other shared assets.
