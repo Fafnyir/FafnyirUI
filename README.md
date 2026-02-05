@@ -13,7 +13,7 @@ FafnyirUI requires the following addons to function properly:
 - **ElvUI**  [Download](https://tukui.org/elvui)
 - **ElvUI_BenikUI**  [Download](https://www.curseforge.com/wow/addons/benikui)
 - **ElvUI_NutsAndBolts**  [Download](https://www.curseforge.com/wow/addons/elvui-nutsandbolts)
-- **FafnyirMedia**  [Download](https://github.com/Fafnyir/FafnyirMedia)
+- **FafnyirMedia**  [Download](https://github.com/Fafnyir/FafnyirMedia/releases/latest)
 
 ## 📦 Recomended
 **Clean Icons - Mechagnome Edition**  [Download](https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition)
