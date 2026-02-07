@@ -37,3 +37,7 @@ Make sure all dependencies are installed and enabled before loading the UI profi
 - This UI is built specifically for use with the ElvUI ecosystem.  
 - Missing dependencies will cause visual errors or missing elements.  
 - FafnyirMedia contains required textures, fonts.
+
+## ⚙️ Support
+
+[Discord](https://discord.gg/tZD8kMhze9)
