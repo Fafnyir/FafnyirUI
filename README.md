@@ -14,6 +14,7 @@ FafnyirUI requires the following addons to function properly:
 - **ElvUI_BenikUI**  [Download](https://www.curseforge.com/wow/addons/benikui)
 - **ElvUI_NutsAndBolts**  [Download](https://www.curseforge.com/wow/addons/elvui-nutsandbolts)
 - **ElvUI_Anchor**  [Download](https://www.curseforge.com/wow/addons/elvui-anchor)
+- **Better Cooldown Manager**  [Download](https://www.curseforge.com/wow/addons/bettercooldownmanager)
 - **FafnyirMedia**  [Download](https://github.com/Fafnyir/FafnyirMedia/releases/latest)
 
 ## 📦 Recomended
