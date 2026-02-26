@@ -40,6 +40,5 @@ Make sure all dependencies are installed and enabled before loading the UI profi
 - Missing dependencies will cause visual errors or missing elements.  
 - FafnyirMedia contains required textures, fonts.
 
-## ⚙️ Support
 
-[Discord](https://discord.gg/tZD8kMhze9)
+## 🧠 Support (NONE)
